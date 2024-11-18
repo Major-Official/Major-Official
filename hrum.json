@@ -1,0 +1,7 @@
+{
+    "name": "Hrum",
+    "description": "HRUM is a Telegram mini-app that integrates with the TON blockchain, offering users the opportunity to earn tokens through daily predictions, tasks, and referrals. The platform features a fortune cookie reward system and requires a 0.5 Toncoin transaction to participate in its airdrop.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/hrum.png",
+    "symbol": "HRUM",
+    "decimals": "9"
+}
