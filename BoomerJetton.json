@@ -1,7 +1,7 @@
 {
     "name": "Booms",
     "description": "BOOMS is the first game where you can earn $BOOMS tokens with real value even before the airdrop!",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/booms.png",
     "symbol": "BOOMS",
-    "decimals": 9,
-    "image_data": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/booms.png"
+    "decimals": "9"
 }
