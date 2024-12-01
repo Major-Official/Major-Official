@@ -1,0 +1,7 @@
+{
+    "name": "ZKsync",
+    "description": "ZK chains are high performance, verifiable, modular rollups and validiums powered by ZKsync. Bridging Ton to other ecosystems. United in an elastic network, ZK chains can be added or expanded to handle increased transaction volume without affecting costs or hardware requirements for verification.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/zksync.png",
+    "symbol": "ZKSYNC",
+    "decimals": "9"
+}
