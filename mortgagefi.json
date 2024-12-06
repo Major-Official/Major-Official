@@ -1,0 +1,7 @@
+{
+    "name": "MortgageFi",
+    "description": "MortgageFi is a fully decentralized, permissionless, under-collateralized lending protocol that combines traditional mortgage concepts with blockchain technology. The platform allows users to access leverage up to 50x their capital without liquidation risks during market downturns. MortgageFi operates without credit rating requirements while maintaining affordable entry points for users. The protocol addresses two common challenges in crypto lending: high collateral requirements and liquidation risks. Through its economic model, MortgageFi creates a lending ecosystem where both borrowers and lenders can participate, with lenders benefiting from enhanced protection against common liquidity provision risks.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/mortgagefi.png",
+    "symbol": "MORTGAGEFI",
+    "decimals": "9"
+}
