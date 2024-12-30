@@ -1,7 +1,7 @@
 {
     "name": "MomoAI",
-    "description": "MomoAI is the No.4 DApp and No.1 gaming platform on Solana which has now also launched on TON ecosystem. It integrates deeply with the Solana Mobile and Play Solana ecosystems, offering seamless cross-platform interoperability through Blinks technology. Powered by its self-developed AI system, MomoAI creates digital identities and social experiences with deep interactive capabilities for Web3 gaming users.",
-    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/bio.png",
+    "description": "MomoAI is the No.4 DApp and No.1 gaming platform on Solana which has now also launched on TON ecosystem. It integrates deeply with the Solana Mobile, Ton and Play Solana ecosystems, offering seamless cross-platform interoperability through Blinks technology. Powered by its self-developed AI system, MomoAI creates digital identities and social experiences with deep interactive capabilities for Web3 gaming users.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/momoai.png",
     "symbol": "MTOS",
     "decimals": "9"
 }

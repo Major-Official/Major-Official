@@ -1,7 +1,7 @@
 {
-    "name": "Bio Protocol",
+    "name": "Reploy",
     "description": "Reploy is a self learning neural network and the world’s first proprietary AI language model finetuned on 728M Solidity parameters, built to understand, generate, and elevate human creativity and productivity like never before.",
-    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/bio.png",
-    "symbol": "BIO",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/rai.png",
+    "symbol": "RAI",
     "decimals": "9"
 }
