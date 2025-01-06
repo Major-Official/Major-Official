@@ -1,0 +1,7 @@
+{
+    "name": "CattonAI",
+    "description": "CattonAI is a Telegram-based idle game built on the TON blockchain that combines gaming and DeFi elements. The platform enables players to earn $vCatton tokens through various gameplay mechanics, including Whisker fighting, clan participation, and completing tasks. Operating directly within Telegram’s ecosystem, CattonAI leverages TON blockchain’s capabilities to provide an accessible gaming experience to Telegram’s 750 million active users.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/cattonai.png",
+    "symbol": "VCATTON",
+    "decimals": "9"
+}
