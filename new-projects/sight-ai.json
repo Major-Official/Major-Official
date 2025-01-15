@@ -1,0 +1,7 @@
+{
+    "name": "Sight AI",
+    "description": "Sight AI is a computation oracle platform that enables privacy-preserving calculations on blockchain networks using Fully Homomorphic Encryption (FHE) technology. The platform’s Oracle service operates across multiple blockchain networks, including EVM chains, Solana, and TON, allowing users to perform computations on encrypted data without compromising privacy.",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/new-projects/sight-ai.png",
+    "symbol": "SIGHTAI",
+    "decimals": "9"
+}
