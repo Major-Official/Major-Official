@@ -1,7 +1,7 @@
 {
     "name": "Nansen",
     "description": "Nansen is a leading blockchain analytics platform that combines on-chain data with AI-powered intelligence to help traders make informed decisions. The platform specializes in tracking smart money movements, new token launches, and flows across multiple blockchains. By processing millions of wallet labels and transactions, Nansen provides real-time insights that were previously inaccessible to retail traders.",
-    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/latest/fatcat.png",
+    "image": "https://raw.githubusercontent.com/Major-Official/Major-Official/refs/heads/main/latest/nansen.png",
     "symbol": "NSN",
     "decimals": "9"
 }
